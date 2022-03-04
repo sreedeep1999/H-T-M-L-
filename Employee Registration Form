@@ -65,7 +65,8 @@
                       Reading <input type="checkbox" name="Hobbies" value="reading">
                       Gaming <input type="checkbox" name="Hobbies" value="Gaming"></td>
                   </tr>
-
+                  <td><label for="resume">Resume</label></td>
+                   <td><input type="file" name="resume" id="resume"></td>
                 
                 <tr>
                   <td colspan="2"><input type="submit" class="submit" value="Register" /></td>
